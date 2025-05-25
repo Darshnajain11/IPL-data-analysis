@@ -16,6 +16,17 @@ This project analyzes the 2023 Indian Premier League (IPL) season using R. It in
 - lubridate
 - ggplot2
 
+## Visualizations
+
+### Total Wins by Team – IPL 2023
+![Total Wins by Team](total_wins_by_team_in_ipl.png)
+
+### Top 10 Run Scorers – IPL 2023
+![Top 10 Run Scorers](top_10_scorer.png)
+
+### Top 10 Wicket Takers – IPL 2023
+![Top 10 Wicket Takers](top_10_wicket_takers.png)
+
 ## Dataset
 The data used includes:
 - IPL2023_Matches.csv
