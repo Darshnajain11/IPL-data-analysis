@@ -1,5 +1,5 @@
 
-# IPL 2023 Data Analysis using R
+## IPL 2023 Data Analysis using R
 
 This project analyzes the 2023 Indian Premier League (IPL) season using R. It includes team performance, top batsmen, and top bowlers based on official match data.
 
