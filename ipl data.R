@@ -1,15 +1,15 @@
-# Load required libraries
+# Loading required libraries
 library(tidyverse)
 library(janitor)
 library(lubridate)
 
-# Set your working directory where the ZIP file is located
+# Setting working directory where the ZIP file is located
 setwd("D:/Downloads") 
 
-# Unzip the dataset
+# Unzipping the dataset
 unzip("ipl2023 dataset.zip", exdir = "ipl2023_data")
 
-# Load datasets
+# Loading datasets
 matches <- read_csv("ipl2023_data/IPL2023_Matches.csv") %>% clean_names()
 scoreboard <- read_csv("ipl2023_data/IPL2023_Match_Scoreboard.csv") %>% clean_names()
 batting <- read_csv("ipl2023_data/IPL2023_Batsman.csv") %>% clean_names()
