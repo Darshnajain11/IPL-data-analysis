@@ -34,6 +34,11 @@ The data used includes:
 - IPL2023_Bowler.csv
 - IPL2023_Match_Scoreboard.csv
 
+## Key Insights
+- Gujarat Titans had the most wins in IPL 2023.
+- Faf du Plessis and Shubman Gill dominated the batting leaderboard.
+- Rashid Khan led the bowling charts with the most wickets.
+
 > Note: Data is assumed to be sourced from public or internship sources. Not included here if proprietary.
 
 ## Author
